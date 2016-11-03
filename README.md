@@ -2,7 +2,7 @@
 Load json configuration file, and setup a spring WebMvcConfigurer to control CROS.
 
 Hi everyone:
-I use this plugin with spring boot, to make a WebMvcConfigurer bean can load an outside json config file like this to control CORS(Cross-Origin Resource Sharing).
+I use this plugin with Spring Boot, to make a WebMvcConfigurer bean can load an outside json config file like this to control CORS(Cross-Origin Resource Sharing) feature in Spring MVC.
 
 /resources/config_specific/springMvcWebConfig.json
 
